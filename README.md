@@ -1,2 +1,2 @@
-# aimholte.github.io-src
-Source code for programming blog
+# aimholte.github.io
+Output files for programming blog
